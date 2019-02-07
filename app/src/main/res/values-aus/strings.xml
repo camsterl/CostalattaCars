@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_main">Tinny Dealers</string>
+    <string name="instruction">Put ya tinny purcho info</string>
+    <string name="dollar_sign">$</string>
+    <string name="car_price">What\'s price ya tinny mate?</string>
+    <string name="cash_down_payment">What\'s ya downo mate?</string>
+    <string name="choose_loan_term">Pick ya loan term mate</string>
+    <string name="years3">3 years</string>
+    <string name="years4">4 years</string>
+    <string name="years5">5 years</string>
+    <string name="go_data_entry">Return to Dardy Entry</string>
+    <string name="loan_summary">Your dodgy Loan Summas</string>
+    <string name="loan_report_button_text">Loan Report</string>
+    <string name="enter_price">Chuck ya price in</string>
+    <string name="enter_down_payment">What\'s ya downo mate?</string>
+    <string name="car_sticker_price">Tinny sticker price</string>
+    <string name="down_payment">Downo</string>
+    <string name="tax_amount">Taxo mount</string>
+    <string name="total_cost">Total cossa</string>
+    <string name="borrowed_amount">Borrow mount</string>
+    <string name="interest_amount">Inny mount</string>
+    <string name="sales_tax_rate">Sales taxo r8</string>
+    <string name="monthly_payment">Monthly payments</string>
+    <string name="loan_term">Loan termas</string>
+</resources>
